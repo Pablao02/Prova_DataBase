@@ -72,3 +72,4 @@ Foram removidas dependências transitivas, especialmente a relação entre disci
 * Uma DISCIPLINA pode ter várias OFERTAS (1:N)
 * Um PROFESSOR pode ministrar várias OFERTAS (1:N)
 * Uma TURMA pode ter várias OFERTAS (1:N)
+  
